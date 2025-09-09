@@ -14,4 +14,4 @@ Certificate Link:
 6. Conditional logic with WHERE & CASE
 7. Primary keys and Foreign Keys
 8. Joins: inner, outer, cross, etc.
-9. 
+9. SQL Functions
