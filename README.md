@@ -15,4 +15,5 @@ Certificate Link:
 7. Primary keys and Foreign Keys
 8. Joins: inner, outer, cross, etc.
 9. SQL Functions
-10. Grouping in SQL : GROUP BY and HAVING clause
+10. Grouping in SQL: GROUP BY and HAVING clause
+11. SQL Subqueries: using IN clause, DISTINCT clause and nesting
